@@ -1,6 +1,4 @@
-Here's a version of the **Nextcloud Setup** using GitHub Markdown syntax that you can paste directly into a README file on GitHub:
 
-```markdown
 # Nextcloud Installation Guide (Ubuntu 22.04)
 
 ## Prerequisites
@@ -11,7 +9,7 @@ Here's a version of the **Nextcloud Setup** using GitHub Markdown syntax that yo
 
 ## Step 1: Update System
 
-```bash
+```markdown
 sudo apt update && sudo apt upgrade -y
 ```
 
