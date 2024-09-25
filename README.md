@@ -132,5 +132,3 @@ sudo journalctl -xe
 ## References
 - [Nextcloud Documentation](https://docs.nextcloud.com)
 ```
-
-This document uses GitHub Markdown syntax and includes code blocks, making it easy to paste directly into a GitHub repository as a `README.md` file.
