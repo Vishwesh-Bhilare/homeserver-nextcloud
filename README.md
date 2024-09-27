@@ -138,6 +138,3 @@ Open your web browser and navigate to `http://your_domain.com` or `http://your_s
 - Regularly update your Nextcloud instance for security and new features.
 - Consider setting up a firewall to protect your server.
 - Backup your data regularly.
-```
-
-Feel free to adjust any sections or content as necessary!
